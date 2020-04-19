@@ -9,7 +9,8 @@ public class FlowControlLoops {
 		// arrayLoop();
 		// arrayForEachLoop();
 		//arrayForEachEven();
-		loopLabel();
+		//loopLabel();
+		printfWithSubst();
 
 	}
 
@@ -85,5 +86,11 @@ public class FlowControlLoops {
 		}
 
 		System.out.println("Good-Bye");
+	}
+	
+	public static void printfWithSubst() {
+		int idade = 33;
+		String nome = "Fabio";
+		System.out.printf("Meu nome é %s e minha idade é %d", nome, idade);
 	}
 }
