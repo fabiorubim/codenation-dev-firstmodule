@@ -20,7 +20,7 @@ public class DataTypes {
 	                "\nMenor Float: " + Float.MIN_VALUE +
 	                "\nMaior Float: " + Float.MAX_VALUE +
 	                "\nMenor Double: " + Double.MIN_VALUE +
-	                "\nMaior Double: " + Double.MAX_VALUE);
+	                "\nMaior Double: " + Double.MAX_VALUE);	    
 	        BigDecimal bigdecimal = new BigDecimal("14.664444444644646464646516854108529638527418529638524185296");
 	        System.out.println("BigDecimal: " + bigdecimal);
 	        
