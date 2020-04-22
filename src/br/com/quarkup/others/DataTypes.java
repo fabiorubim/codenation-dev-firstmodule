@@ -53,7 +53,7 @@ public class DataTypes {
 		  System.out.println("Olá!");
 		  System.out.println("Idade: " + idade);
 		  System.out.println("String da instância: " + strinDaInstancia);
-		  System.out.println("Valor da variável boolean da instância: " + boolDaInstancia);
+		  System.out.println("Valor da variável boolean da instância: " + boolDaInstancia);		  
 	  }
 
 }
